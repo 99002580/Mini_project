@@ -3,3 +3,4 @@
 IPL match data analysis
 
 ![cppcheck-action](https://github.com/99002580/Mini_project/workflows/cppcheck-action/badge.svg)
+![Unit testing](https://github.com/99002580/Mini_project/workflows/Unit%20testing/badge.svg)
