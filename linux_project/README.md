@@ -10,3 +10,5 @@ type "ls" to check se and re are generated
 open one terminal and type ./se and give your inputs
 parallelly open another terminal and type ./re and check whether data is
 received or not
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd75b6b1df4a48b281e89d5dacc6e38f)](https://www.codacy.com/gh/99002580/Mini-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002580/Mini-project&amp;utm_campaign=Badge_Grade)
